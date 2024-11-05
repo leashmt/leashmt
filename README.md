@@ -4,10 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Exploring code foundations, from front to back.
 -----------------------------------------------
 
-* 🌍  I'm based in Paris
-* 🚀  I'm currently working on [My Facturation](http://www.myfacturation.com/)
-* 🧠  I'm learning Vue JS
-* ⚡  I love photography
+🌍 **Location:** Paris  
+🚀 **Current Project:** My Facturation  
+🧠 **Learning:** Vue.js  
+💼 **Experience:** 3 years in web development  
+📚 **Interested in:** Full-stack development, product customization, and UX  
+🎞️ **Passion:** Photography  
+🌱 **Goal:** Master core technologies for scalable, user-friendly applications
 
 ### Skills
 
